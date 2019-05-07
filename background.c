@@ -118,7 +118,7 @@ void deplacement_personnage(PERSO_PRINCIPALE *o,int sens,background_game *bg)
 }
 
 /**
-* @brief To modifie the main carcter velocity
+* @brief To modifie the main caracter velocity
 * @param per the main caracter
 * @param p the objet
 * @param dt the time variable
